@@ -28,3 +28,7 @@ Detalle completo del entorno y DNS en `../DEPLOY.md`.
 ## Variables de entorno
 
 Ver `.env.example`. Las de producción viven en Vercel, no en el repositorio.
+
+## Repositorio
+
+https://github.com/yeyodev1/phb-bakano-develop-time-backapp
