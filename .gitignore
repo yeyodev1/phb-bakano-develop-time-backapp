@@ -1,0 +1,18 @@
+# dependencias
+node_modules
+
+# build
+dist
+
+# entorno — NUNCA subir: contiene DB_URI, JWT_SECRET, RESEND_API_KEY y CLOUDFLARE_API_TOKEN
+.env
+.env.*
+!.env.example
+
+# vercel
+.vercel
+
+# sistema
+.DS_Store
+uploads
+*.log
